@@ -1,0 +1,9 @@
+eyes
+sunglasses
+mouth
+shoes
+pants
+tshirt
+beard
+hair
+hat
